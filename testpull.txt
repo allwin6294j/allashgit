@@ -1,0 +1,1 @@
+Test Git pull from Remote origin branch to local repository
