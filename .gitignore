@@ -1,0 +1,7 @@
+# Ignore jpeg files
+*.jpeg
+
+# Ignore cfm files
+*.cfm
+
+
