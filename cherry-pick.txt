@@ -1,0 +1,1 @@
+Cherry-pick option in Git allows us to merge only the part of branch, insated of merging the whole branch to master branch
