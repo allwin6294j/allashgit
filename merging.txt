@@ -1,10 +1,11 @@
 Successfully merged 4 files into master from test-branch
 
-<<<<<<< HEAD
 
 Test Merging conflict
 
 
 
 Merging conflict test complte
->>>>>>> styling
+
+
+Enjoy
