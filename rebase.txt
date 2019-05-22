@@ -3,3 +3,7 @@ Rebasing the Text and Merging with Master Branch
 Rebase preserves the history both in Master and Current branch when rebasing(merging)
 
 Merging preserves the history only in Master branch..It does not store history in current branch
+
+
+
+Rebase Test Completed
