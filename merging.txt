@@ -1,1 +1,5 @@
 Successfully merged 4 files into master from test-branch
+
+Test Merging conflict
+
+Merging Conflict
