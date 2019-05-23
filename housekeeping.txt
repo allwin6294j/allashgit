@@ -1,0 +1,3 @@
+Housekeeping remote branch files when cloning locally
+
+Deleted branch at remote has to be housekeeped while cloning to local,else when cloning the same branch to local it will re-create the deleted branch.
